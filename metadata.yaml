@@ -1,0 +1,28 @@
+_repo: The-Seven-Poor-Travellers_1392
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dickens, Charles
+    alias: Boz
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
+description: In the old city of Rochester -- The story of Richard Doubledick -- The
+  road.
+gutenberg_issued: '1998-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1392'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christmas stories, English'
+- !lcsh 'Fiction'
+- !lcc 'PR'
+- GITenberg
+title: The Seven Poor Travellers
+url: http://www.gutenberg.org/ebooks/1392
