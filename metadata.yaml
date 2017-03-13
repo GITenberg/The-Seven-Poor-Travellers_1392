@@ -1,5 +1,8 @@
 _repo: The-Seven-Poor-Travellers_1392
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dickens, Charles
@@ -11,6 +14,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
 description: In the old city of Rochester -- The story of Richard Doubledick -- The
   road.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1392#The-Seven-Poor-Travellers
 gutenberg_issued: '1998-07-01'
 gutenberg_type: Text
 identifiers:
